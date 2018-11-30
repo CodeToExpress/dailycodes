@@ -693,3 +693,39 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
 }
+
+
+/*==========Countdown Block==========*/
+.countdown-sec{
+  float: left;
+  width: 100%;
+  position: relative;
+  z-index: 2;
+  color: #fff;
+  text-align: center;
+}
+.countdown-sec #timer{
+  float: left;
+  width: 100%
+}
+.countdown-sec #timer span{
+  font-size: 55px;
+  position: relative;
+  line-height: normal;
+  padding: 10px 20px 0;
+  display: inline-block;
+  font-weight: 700;
+}
+.countdown-sec #timer span i{
+  font-style: normal;
+  font-size: 20px;
+  font-weight: normal;
+  position: absolute;
+  width:50%;
+  text-align: center;
+  left: 50%;
+  margin-left: -25%;
+  top: -10px;
+  color: #000;
+  opacity: 0.7;
+}

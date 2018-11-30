@@ -4,6 +4,6 @@ This is the repository for website of Daily Codes challenge.
 
 ## Timeline
 
-<center>
+<div align="center">
     <img src="./timeline.png" alt="Challenge TimeLine">
-</center>
+</div>

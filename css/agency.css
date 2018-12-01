@@ -751,3 +751,7 @@ ul.social-buttons li a:hover {
 #whatsappBTN:hover {
     background-color: rgba(255, 230, 0, 0.9) !important;
 }
+
+.hoverable {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
